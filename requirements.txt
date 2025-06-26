@@ -1,0 +1,14 @@
+transformers
+datasets
+scikit-learn
+torch
+pandas
+numpy
+newspaper3k
+shap
+lime
+matplotlib
+streamlit
+pytesseract
+Pillow
+opencv-python
